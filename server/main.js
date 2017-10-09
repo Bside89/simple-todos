@@ -1,3 +1,4 @@
+import "../imports/api/tasks";
 import { Meteor } from 'meteor/meteor';
 
 Meteor.startup(() => {
